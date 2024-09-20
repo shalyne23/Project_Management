@@ -97,9 +97,6 @@ $ python main.py task delete
 - SQL Alchemy
 - Click
 
-# License
-[MIT](LICENSE)
-
 # Contributions
 Authored by Shalyne Chepngeno
 
