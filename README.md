@@ -8,7 +8,6 @@ A Command-Line Interface (CLI) application for managing users, projects, and tas
 - [Usage](#usage)
 - [Commands](#commands)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contributions](#contributions)
 
 ## Installation
